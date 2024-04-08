@@ -72,6 +72,9 @@ def tweet():
         smtp.sendmail(email_sender, email_receiver, em.as_string())
 
     return jsonify({'message': 'Tweet sent successfully!!'})
+@app.route('/')
+def index():
+    return 'Flask Server is running successfully! -markbins'
 
 if __name__ == '__main__':
     app.run(debug=True)
