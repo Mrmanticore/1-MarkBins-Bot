@@ -1,0 +1,24 @@
+blinker==1.7.0  # Signaling library
+cachetools==5.3.3  # Efficient caching
+certifi==2024.2.2  # TLS/SSL certificates
+charset-normalizer==3.3.2  # Character encoding normalization
+click==8.1.7  # Command-line interface creation
+cssselect==1.2.0  # CSS selectors for HTML parsing
+cssutils==2.10.2  # CSS parsing and manipulation
+Flask==3.0.2  # Web framework
+gunicorn==21.2.0  # WSGI server  
+idna==3.6 # Internationalized domain name handling
+itsdangerous==2.1.2  # Data serialization for Flask
+Jinja2==3.1.3  # Templating engine
+lxml==5.2.1  # XML and HTML processing
+MarkupSafe==2.1.5  # Secure HTML string generation
+oauthlib==3.2.2  # OAuth library
+packaging==24.0 # Package information and utilities
+premailer==3.10.0 # Inline CSS for email
+python-dotenv==1.0.1 # Loading environment variables from .env
+requests==2.31.0  # HTTP library
+requests-oauthlib==1.3.1  # OAuth for requests
+tweepy==4.14.0  # Twitter API interface
+urllib3==2.2.1  # HTTP client used by requests
+Werkzeug==3.0.2  # WSGI utilities/development server
+yagmail==0.15.293 # Email sending 
