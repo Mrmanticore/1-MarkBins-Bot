@@ -32,4 +32,4 @@ yagmail = "==0.15.293"
 [dev-packages]
 
 [requires]
-python_version = "3.12"
+python_version = "3.9"
