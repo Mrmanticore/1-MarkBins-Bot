@@ -4,7 +4,6 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-Flask = "==3.0.2"
 blinker = "==1.7.0"
 cachetools = "==5.3.3"
 certifi = "==2024.2.2"
@@ -28,6 +27,7 @@ tweepy = "==4.14.0"
 urllib3 = "==2.2.1"
 werkzeug = "==3.0.2"
 yagmail = "==0.15.293"
+flask = "*"
 
 [dev-packages]
 
