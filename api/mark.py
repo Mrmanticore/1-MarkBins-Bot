@@ -75,7 +75,5 @@ def tweet():
 @app.route('/')
 def index():
     return 'Flask Server is running successfully! -markbins'
-
 if __name__ == '__main__':
     app.run(debug=True)
-#doe
